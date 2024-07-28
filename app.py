@@ -22,9 +22,8 @@ def create_vectorstore(text):
         length_function=len
     )
     chunks = text_splitter.split_text(text=text)
-    api_key = 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
 
-    embeddings = OpenAIEmbeddings(openai_api_key=api_key)
+    embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
     vectorstore = FAISS.from_texts(chunks, embedding=embeddings)
     return vectorstore
 
