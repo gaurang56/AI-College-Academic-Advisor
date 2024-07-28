@@ -1,0 +1,290 @@
+Code,Title,Hours,Category
+Computer Science Overview,,,Computer Science Overview
+CS 1200,First Year Seminar,1,Computer Science Overview
+CS 1210,Professional Development for Khoury Co-op,1,Computer Science Overview
+Computer Science Fundamental Courses,,,Computer Science Fundamental Courses
+"CS 1800
+and CS 1802","Discrete Structures
+and Seminar for CS 1800",5,Computer Science Fundamental Courses
+"CS 2500
+and CS 2501","Fundamentals of Computer Science 1
+and Lab for CS 2500",5,Computer Science Fundamental Courses
+"CS 2510
+and CS 2511","Fundamentals of Computer Science 2
+and Lab for CS 2510",5,Computer Science Fundamental Courses
+CS 2810,Mathematics of Data Models,4,Computer Science Fundamental Courses
+Computer Science Required Courses,,,Computer Science Required Courses
+CS 3000,Algorithms and Data,4,Computer Science Required Courses
+"CS 3500
+and CS 3501","Object-Oriented Design
+and Lab for CS 3500",5,Computer Science Required Courses
+CS 3650,Computer Systems,4,Computer Science Required Courses
+CS 3800,Theory of Computation,4,Computer Science Required Courses
+CS 4500,Software Development,4,Computer Science Required Courses
+or CS 4530,Fundamentals of Software Engineering,,Computer Science Required Courses
+Security Required Course,,,Security Required Course
+Complete one of the following:,4,,Security Required Course
+CY 2550,Foundations of Cybersecurity,,Security Required Course
+CY 3740,Systems Security,,Security Required Course
+CY 4740,Network Security,,Security Required Course
+Presentation Requirement,,,Presentation Requirement
+Complete one of the following:,4,,Presentation Requirement
+COMM 1112,Public Speaking,,Presentation Requirement
+COMM 1113,Business and Professional Speaking,,Presentation Requirement
+COMM 1210,Persuasion and Rhetoric,,Presentation Requirement
+COMM 1511,Communication and Storytelling,,Presentation Requirement
+THTR 1125,Improvisation,,Presentation Requirement
+THTR 1130,Introduction to Acting,,Presentation Requirement
+THTR 1180,The Dynamic On-Screen Presenter,,Presentation Requirement
+THTR 2345,Acting for the Camera,,Presentation Requirement
+Khoury Elective Courses,,,Khoury Elective Courses
+"Students should plan to take a NUpath capstone using designated courses in either a concentration, computer science electives, or as a general elective.",,,"Students should plan to take a NUpath capstone using designated courses in either a concentration, computer science electives, or as a general elective."
+"With adviser approval, directed study, research, project study, and appropriate graduate-level courses may also be taken as upper-division electives.",,,"With adviser approval, directed study, research, project study, and appropriate graduate-level courses may also be taken as upper-division electives."
+"Complete 8 semester hours of CS, CY, DS, or IS classes that are not already required. Choose courses within the following ranges:",8,,"With adviser approval, directed study, research, project study, and appropriate graduate-level courses may also be taken as upper-division electives."
+"CS 2500 or higher, except CS 5010",,,"CS 2500 or higher, except CS 5010"
+"CY 2000 or higher, except CY 4930",,,"CY 2000 or higher, except CY 4930"
+"DS 2500 or higher, except DS 4900",,,"DS 2500 or higher, except DS 4900"
+"IS 2000 or higher, except IS 4900",,,"IS 2000 or higher, except IS 4900"
+Code,Title,Hours,"IS 2000 or higher, except IS 4900"
+Mathematics Courses,,,Mathematics Courses
+MATH 1341,Calculus 1 for Science and Engineering,4,Mathematics Courses
+MATH 1365,Introduction to Mathematical Reasoning,4,Mathematics Courses
+Computing and Social Issues,,,Computing and Social Issues
+Complete one of the following:,4,,Computing and Social Issues
+AFAM 2600,"Issues in Race, Science, and Technology",,Computing and Social Issues
+CY 4170,"The Law, Ethics, and Policy of Data and Digital Technologies",,Computing and Social Issues
+CY 5240,"Cyberlaw: Privacy, Ethics, and Digital Rights",,Computing and Social Issues
+ENGL 2150,Literature and Digital Diversity,,Computing and Social Issues
+HIST 2220,History of Technology,,Computing and Social Issues
+INSH 2102,"Bostonography: The City through Data, Texts, Maps, and Networks",,Computing and Social Issues
+IS 1300,Knowledge in a Digital World,,Computing and Social Issues
+or PHIL 1300,Knowledge in a Digital World,,Computing and Social Issues
+PHIL 1145,Technology and Human Values,,Computing and Social Issues
+SOCL 1280,The Twenty-First-Century Workplace,,Computing and Social Issues
+SOCL 2485,"Environment, Technology, and Society",,Computing and Social Issues
+SOCL 4528,Computers and Society,,Computing and Social Issues
+Electrical Engineering,,,Electrical Engineering
+"EECE 2322
+and EECE 2323","Fundamentals of Digital Design and Computer Organization
+and Lab for EECE 2322",5,Electrical Engineering
+Science Requirement,,,Science Requirement
+Complete two courses (and any required labs) from the following science categories:,8,,Science Requirement
+Biology,,,Biology
+"BIOL 1111
+and BIOL 1112","General Biology 1
+and Lab for BIOL 1111",,Biology
+"BIOL 1113
+and BIOL 1114","General Biology 2
+and Lab for BIOL 1113",,Biology
+"BIOL 2301
+and BIOL 2302","Genetics and Molecular Biology
+and Lab for BIOL 2301",,Biology
+Chemistry,,,Chemistry
+"CHEM 1161
+and CHEM 1162","General Chemistry for Science Majors
+and Lab for CHEM 1161",,Chemistry
+"CHEM 1211
+and CHEM 1212
+and CHEM 1213","General Chemistry 1
+and Lab for CHEM 1211
+and Recitation for CHEM 1211",,Chemistry
+"CHEM 1214
+and CHEM 1215
+and CHEM 1216","General Chemistry 2
+and Lab for CHEM 1214
+and Recitation for CHEM 1214",,Chemistry
+Geology/Environmental Science,,,Geology/Environmental Science
+"ENVR 1200
+and ENVR 1201","Dynamic Earth
+and Lab for ENVR 1200",,Geology/Environmental Science
+"ENVR 1202
+and ENVR 1203","History of Earth and Life
+and Interpreting Earth History",,Geology/Environmental Science
+"ENVR 2310
+and ENVR 2311","Earth Materials
+and Lab for ENVR 2310",,Geology/Environmental Science
+"ENVR 2340
+and ENVR 2341","Earth Landforms and Processes
+and Lab for ENVR 2340",,Geology/Environmental Science
+"ENVR 3300
+and ENVR 3301","Geographic Information Systems
+and Lab for ENVR 3300",,Geology/Environmental Science
+"ENVR 4500
+and ENVR 4501","Applied Hydrogeology
+and Lab for ENVR 4500",,Geology/Environmental Science
+"ENVR 5242
+and ENVR 5243","Ancient Marine Life
+and Lab for ENVR 5242",,Geology/Environmental Science
+Mathematics,,,Mathematics
+MATH 1342,Calculus 2 for Science and Engineering,,Mathematics
+MATH 2331,Linear Algebra,,Mathematics
+MATH 3081,Probability and Statistics,,Mathematics
+Physics,,,Physics
+"PHYS 1145
+and PHYS 1146","Physics for Life Sciences 1
+and Lab for PHYS 1145",,Physics
+"PHYS 1147
+and PHYS 1148","Physics for Life Sciences 2
+and Lab for PHYS 1147",,Physics
+"PHYS 1151
+and PHYS 1152
+and PHYS 1153","Physics for Engineering 1
+and Lab for PHYS 1151
+and Interactive Learning Seminar for PHYS 1151",,Physics
+"PHYS 1155
+and PHYS 1156
+and PHYS 1157","Physics for Engineering 2
+and Lab for PHYS 1155
+and Interactive Learning Seminar for PHYS 1155",,Physics
+"PHYS 1161
+and PHYS 1162
+and PHYS 1163","Physics 1
+and Lab for PHYS 1161
+and Recitation for PHYS 1161",,Physics
+"PHYS 1165
+and PHYS 1166
+and PHYS 1167","Physics 2
+and Lab for PHYS 1165
+and Recitation for PHYS 1165",,Physics
+Code,Title,Hours,Physics
+College Writing,,,College Writing
+ENGW 1111,First-Year Writing,4,College Writing
+Advanced Writing in the Disciplines,,,Advanced Writing in the Disciplines
+ENGW 3302,Advanced Writing in the Technical Professions,4,Advanced Writing in the Disciplines
+or ENGW 3315,Interdisciplinary Advanced Writing in the Disciplines,,Advanced Writing in the Disciplines
+Code,Title,Hours,Advanced Writing in the Disciplines
+Complete 28 semester hours of general electives.,28,,Advanced Writing in the Disciplines
+Code,Title,Hours,Advanced Writing in the Disciplines
+CS 4100,Artificial Intelligence,4,Advanced Writing in the Disciplines
+DS 4400,Machine Learning and Data Mining 1,4,Advanced Writing in the Disciplines
+Complete two of the following not already taken:,8,,Advanced Writing in the Disciplines
+CS 4120,Natural Language Processing,,Advanced Writing in the Disciplines
+CS 4150,Game Artificial Intelligence,,Advanced Writing in the Disciplines
+CS 4610,Robotic Science and Systems,,Advanced Writing in the Disciplines
+DS 4420,Machine Learning and Data Mining 2,,Advanced Writing in the Disciplines
+IS 4200,Information Retrieval,,Advanced Writing in the Disciplines
+PSYC 3466,Cognition,,Advanced Writing in the Disciplines
+Code,Title,Hours,Advanced Writing in the Disciplines
+Complete two of the following:,8-9,,Advanced Writing in the Disciplines
+CS 2800,Logic and Computation,,Advanced Writing in the Disciplines
+or CS 4820,Computer-Aided Reasoning,,Advanced Writing in the Disciplines
+CS 4805,Fundamentals of Complexity Theory,,Advanced Writing in the Disciplines
+or CS 4810,Advanced Algorithms,,Advanced Writing in the Disciplines
+Complete two of the following not already taken:,8,,Advanced Writing in the Disciplines
+"CS 3950
+and CS 4950
+and CS 4950","Introduction to Computer Science Research
+and Computer Science Research Seminar
+and Computer Science Research Seminar",,Advanced Writing in the Disciplines
+CS 4805,Fundamentals of Complexity Theory,,Advanced Writing in the Disciplines
+CS 4810,Advanced Algorithms,,Advanced Writing in the Disciplines
+CS 4820,Computer-Aided Reasoning,,Advanced Writing in the Disciplines
+CS 4830,"System Specification, Verification, and Synthesis",,Advanced Writing in the Disciplines
+CY 4770,Cryptography,,Advanced Writing in the Disciplines
+Code,Title,Hours,Advanced Writing in the Disciplines
+IS 4300,Human Computer Interaction,4,Advanced Writing in the Disciplines
+IS 4800,Empirical Research Methods,4,Advanced Writing in the Disciplines
+Complete two of the following not already taken:,8,,Advanced Writing in the Disciplines
+CS 4120,Natural Language Processing,,Advanced Writing in the Disciplines
+CS 4520,Mobile Application Development,,Advanced Writing in the Disciplines
+CS 4550,Web Development,,Advanced Writing in the Disciplines
+DS 4200,Information Presentation and Visualization,,Advanced Writing in the Disciplines
+IS 2000,Principles of Information Science,,Advanced Writing in the Disciplines
+Code,Title,Hours,Advanced Writing in the Disciplines
+CS 2800,Logic and Computation,4,Advanced Writing in the Disciplines
+CS 4400,Programming Languages,4,Advanced Writing in the Disciplines
+CS 4700,Network Fundamentals,4,Advanced Writing in the Disciplines
+or CS 4730,Distributed Systems,,Advanced Writing in the Disciplines
+Complete one of the following not already taken:,,,Complete one of the following not already taken:
+CS 3520,Programming in C++,,Complete one of the following not already taken:
+CS 4410,Compilers,,Complete one of the following not already taken:
+CS 4550,Web Development,,Complete one of the following not already taken:
+CS 4700,Network Fundamentals,,Complete one of the following not already taken:
+CS 4730,Distributed Systems,,Complete one of the following not already taken:
+CS 4820,Computer-Aided Reasoning,,Complete one of the following not already taken:
+CS 4830,"System Specification, Verification, and Synthesis",,Complete one of the following not already taken:
+Code,Title,Hours,Complete one of the following not already taken:
+CS 4700,Network Fundamentals,4,Complete one of the following not already taken:
+or CS 4730,Distributed Systems,,Complete one of the following not already taken:
+Complete one of the following not already taken:,4,,Complete one of the following not already taken:
+CY 3740,Systems Security,,Complete one of the following not already taken:
+CY 4740,Network Security,,Complete one of the following not already taken:
+Complete two of the following not already taken:,8,,Complete one of the following not already taken:
+CS 3520,Programming in C++,,Complete one of the following not already taken:
+CS 4300,Computer Graphics,,Complete one of the following not already taken:
+CS 4610,Robotic Science and Systems,,Complete one of the following not already taken:
+CS 4700,Network Fundamentals,,Complete one of the following not already taken:
+CS 4710,Mobile and Wireless Systems,,Complete one of the following not already taken:
+CS 4730,Distributed Systems,,Complete one of the following not already taken:
+CY 3740,Systems Security,,Complete one of the following not already taken:
+CY 4740,Network Security,,Complete one of the following not already taken:
+CY 4760,Security of Wireless and Mobile Systems,,Complete one of the following not already taken:
+Year 1,,,Year 1
+Fall,Hours,Spring,Year 1
+CS 1200,1,"CS 2510
+and CS 2511",Year 1
+"CS 1800
+and CS 1802",5,CS 2810,Year 1
+"CS 2500
+and CS 2501",5,Science elective with lab,Year 1
+ENGW 1111,4,Elective,Year 1
+MATH 1365,4,,Year 1
+,19,,Year 1
+Year 2,,,Year 2
+Fall,Hours,Spring,Year 2
+CS 1210,1,Co-op,Year 2
+CS 3000,4,,Year 2
+CS 3650,4,,Year 2
+Concentration course,4,,Year 2
+Elective,4,,Year 2
+,17,,Year 2
+Year 3,,,Year 3
+Fall,Hours,Spring,Year 3
+CS 3800,4,Co-op,Year 3
+Computing and social issues,4,,Year 3
+Concentration course,4,,Year 3
+Presentation requirement,4,,Year 3
+,16,,Year 3
+Year 4,,,Year 4
+Fall,Hours,Spring,Year 4
+Concentration course,4,CS 4530,Year 4
+Khoury elective,4,Concentration course,Year 4
+Security course,4,Khoury elective,Year 4
+Elective,4,Science elective with lab,Year 4
+,16,,Year 4
+Total Hours: 135,,,Total Hours: 135
+Year 1,,,Year 1
+Fall,Hours,Spring,Year 1
+CS 1200,1,"CS 2510
+and CS 2511",Year 1
+"CS 1800
+and CS 1802",5,CS 2810,Year 1
+"CS 2500
+and CS 2501",5,Science elective with lab,Year 1
+ENGW 1111,4,Elective,Year 1
+MATH 1365,4,,Year 1
+,19,,Year 1
+Year 2,,,Year 2
+Fall,Hours,Spring,Year 2
+CS 1210,1,CS 3800,Year 2
+"CS 3500
+and CS 3501",5,Concentration course,Year 2
+CS 3650,4,Presentation requirement,Year 2
+Concentration course,4,Computing and social issues,Year 2
+Elective,4,,Year 2
+,18,,Year 2
+Year 3,,,Year 3
+Fall,Hours,Spring,Year 3
+Co-op,,Concentration course,Co-op
+,Khoury elective,4,Co-op
+,Security course,4,Co-op
+,Elective,4,Co-op
+,0,,Co-op
+Year 4,,,Year 4
+Fall,Hours,Spring,Year 4
+Co-op,,CS 4530,Co-op
+,Concentration course,4,Co-op
+,Khoury elective,4,Co-op
+,Science elective with lab,4,Co-op
+,0,,Co-op
+Total Hours: 135,,,Total Hours: 135

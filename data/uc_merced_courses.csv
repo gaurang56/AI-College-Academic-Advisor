@@ -1,0 +1,30 @@
+category,subcategory,course_code,course_name,units,notes
+Required Major Preparation,Mathematics Requirement,MATH 021,Calculus I for Physical Sciences and Engineering,4,
+Required Major Preparation,Mathematics Requirement,MATH 022,Calculus II for Physical Sciences and Engineering,4,
+Required Major Preparation,Mathematics Requirement,MATH 023,Vector Calculus,4,or MATH 023H: Honors Vector Calculus
+Required Major Preparation,Mathematics Requirement,MATH 024,Linear Algebra and Differential Equations,4,
+Required Major Preparation,Mathematics Requirement,MATH 032,Probability and Statistics,4,or ENGR 080: Statistical Modeling and Data Analysis
+Required Major Preparation,Physics Requirement,PHYS 008,Introductory Physics I for Physical Sciences,4,or PHYS 008H
+Required Major Preparation,Physics Requirement,PHYS 008L,Introductory Physics I for Physical Sciences Lab,1,
+Required Major Preparation,Physics Requirement,PHYS 009,Introductory Physics II for Physical Sciences,4,or PHYS 009H
+Required Major Preparation,Physics Requirement,PHYS 009L,Introductory Physics II for Physical Sciences Lab,1,
+Computer Science and Engineering Core,Lower Division Requirement,CSE 015,Discrete Mathematics,4,
+Computer Science and Engineering Core,Lower Division Requirement,CSE 022,Introduction to Programming,4,
+Computer Science and Engineering Core,Lower Division Requirement,CSE 024,Advanced Programming,4,
+Computer Science and Engineering Core,Lower Division Requirement,CSE 030,Data Structures,4,
+Computer Science and Engineering Core,Lower Division Requirement,CSE 031,Computer Organization and Assembly Language,4,
+Computer Science and Engineering Core,Lower Division Requirement,ENGR 065,Circuit Theory,4,
+Computer Science and Engineering Core,Upper Division Requirement,CSE 100,Algorithm Design and Analysis,4,
+Computer Science and Engineering Core,Upper Division Requirement,CSE 120,Software Engineering,4,
+Technical Electives Requirement,,,,30,"A total of 30 units of Engineering technical electives are required. A minimum of 20 units must be CSE upper division or graduate courses outside of Core classes. Any combination of classes such as MATH 131, MATH 141, Engineering fundamental courses, all Engineering Upper division courses and all Engineering Graduate courses can be used to satisfy the remaining 10 units. Other upper division courses outside your major area of study can be selected with approval. A maximum of 4 units of Undergraduate Research (CSE 195) may be used."
+Professional Development Requirement,,ENGR 091,Professional Development: People in an Engineered World,2,
+Transfer Students Requirements,,MATH 021,Calculus I for Physical Sciences and Engineering,4,C- or better
+Transfer Students Requirements,,MATH 022,Calculus II for Physical Sciences and Engineering,4,C- or better
+Transfer Students Requirements,,MATH 023,Vector Calculus,4,C- or better
+Transfer Students Requirements,,MATH 024,Linear Algebra and Differential Equations,4,C- or better
+Transfer Students Requirements,,PHYS 008,Introductory Physics I for Physical Sciences,4,C- or better
+Transfer Students Requirements,,PHYS 008L,Introductory Physics I for Physical Sciences Lab,1,C- or better
+Transfer Students Requirements,,PHYS 009,Introductory Physics II for Physical Sciences,4,C- or better
+Transfer Students Requirements,,PHYS 009L,Introductory Physics II for Physical Sciences Lab,1,C- or better
+Transfer Students Requirements,,CSE 022,Introduction to Programming,4,B or better
+Transfer Students Requirements,,CSE 030,Data Structures,4,C- or better
