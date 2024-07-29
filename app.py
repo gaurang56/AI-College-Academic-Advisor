@@ -12,8 +12,19 @@ import openai
 import pandas as pd
 from PyPDF2 import PdfReader
 
+# Load environment variables
 load_dotenv()
+api_key = "sk-proj-pWjPfJqJ06t7oEZCRRXxT3BlbkFJ6mnWFLxgvjvtVzZM61dQ"
+#os.getenv("OPENAI_API_KEY")
 
+# Test API Key directly
+openai.api_key = api_key
+try:
+    response = openai.Model.list()
+    print("API Key is valid.")
+except openai.error.AuthenticationError:
+    print("Invalid API Key.")
+    raise
 
 def create_vectorstore(text):
     text_splitter = RecursiveCharacterTextSplitter(
@@ -23,10 +34,9 @@ def create_vectorstore(text):
     )
     chunks = text_splitter.split_text(text=text)
 
-    embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
+    embeddings = OpenAIEmbeddings(openai_api_key=api_key)
     vectorstore = FAISS.from_texts(chunks, embedding=embeddings)
     return vectorstore
-
 
 def extract_course_codes_rag(vectorstore):
     llm = ChatOpenAI(model_name="gpt-4-1106-preview")
@@ -39,9 +49,7 @@ def extract_course_codes_rag(vectorstore):
     with get_openai_callback() as cb:
         response = chain.run(input_documents=docs, question=query)
 
-
     return [code.strip() for code in response.split(',')]
-
 
 def main():
     st.set_page_config(page_title="AI Academic Advisor", page_icon="🎓", layout="wide")
@@ -157,7 +165,6 @@ Start directly with the course list for Year 1, Semester 1 without any introduct
         st.markdown(response)
 
         st.sidebar.success("Course plan generated successfully!")
-
 
 if __name__ == '__main__':
     main()
