@@ -14,8 +14,7 @@ from PyPDF2 import PdfReader
 
 # Load environment variables
 load_dotenv()
-api_key = "sk-proj-pWjPfJqJ06t7oEZCRRXxT3BlbkFJ6mnWFLxgvjvtVzZM61dQ"
-#os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
 
 # Test API Key directly
 openai.api_key = api_key
